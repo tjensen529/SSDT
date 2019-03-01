@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Folder Include="src1\" />
-    <Folder Include="src\" />
+    <Folder Include="src\Northwind.data.sql\DeployConfig\" />
   </ItemGroup>
 
 </Project>
